@@ -41,4 +41,4 @@ Branch 'master' set up to track remote branch 'master' from 'origin'.
 ```
 
 # MSC
-https://github.com/onespace10/MSC.git# MSC
+https://github.com/onespace10/MSC.git  # MSC
