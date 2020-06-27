@@ -1,13 +1,12 @@
 # Docker image building
+```
 docker build -t daya123/nginx6 .
-
-build -t daya123/nginx6 .
 
 $ vi Dockerfile
 $ docker build -t daya123/nginx6 . 
 $ docker images
 $ docker push daya123/nginx6
-
+```
 # To upload for git web
 ```
 user@DAYA MINGW64 ~/MSC (master)
